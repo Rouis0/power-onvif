@@ -1,0 +1,14 @@
+# Obj文件
+*.o
+*.o.*
+*.ko
+*.obj
+*.elf
+
+
+# 执行文件
+onvif_find
+onvif_server
+
+
+
